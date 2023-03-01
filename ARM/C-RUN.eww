@@ -3,5 +3,8 @@
     <project>
         <path>$WS_DIR$\Arithmetic.ewp</path>
     </project>
+    <project>
+        <path>$WS_DIR$\luminance.ewp</path>
+    </project>
     <batchBuild />
 </workspace>
