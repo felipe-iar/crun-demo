@@ -1,0 +1,6 @@
+**/Debug
+**/Standalone
+**/Backup*
+*.dep
+*.log
+

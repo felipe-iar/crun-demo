@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspace>
+    <project>
+        <path>$WS_DIR$\Arithmetic.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\Boundschecking.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\Boundschecking_2.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\Heap.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\maxlib.ewp</path>
+    </project>
+    <batchBuild />
+</workspace>
